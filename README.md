@@ -6,7 +6,7 @@ Aspiring software engineer | Python & Django enthusiast | Currently studying at 
 
 ## 🚀 Projects
 - 🔗 [Places](https://github.com/georgievG3/places): Django app for renting caravans & apartments
-- - 🔗 [Apartment 'Skalen Venec'](https://github.com/georgievG3/apartment_skalen_venec): Django app for rental apartment in Veliko Tarnovo
+- 🔗 [Apartment 'Skalen Venec'](https://github.com/georgievG3/apartment_skalen_venec): Django app for rental apartment in Veliko Tarnovo
 
 ---
 
