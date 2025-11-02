@@ -4,6 +4,11 @@ Aspiring software engineer | Python & Django enthusiast | Currently studying at 
 
 ---
 
+##  📫Website
+- 🔗 https://georgig3-portfolio.onrender.com/
+
+---
+
 ## 🚀 Projects
 - 🔗 [Places](https://github.com/georgievG3/places): Django app for renting caravans & apartments
 - 🔗 [Apartment 'Skalen Venec'](https://github.com/georgievG3/apartment_skalen_venec): Django app for rental apartment in Veliko Tarnovo
@@ -15,7 +20,7 @@ Aspiring software engineer | Python & Django enthusiast | Currently studying at 
 
 ---
 
-## 📫 Contact Me
+## 💬 Contact Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/georgi-georgiev-6392b2359/)
 
 
