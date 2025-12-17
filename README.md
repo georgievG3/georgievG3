@@ -16,7 +16,7 @@ Aspiring software engineer | Python & Django enthusiast | Currently studying at 
 ---
 
 ## 🛠️ Tech Stack
-- Python · Django · HTML/CSS · JavaScript · PostgreSQL · Git
+- Python · Django · HTML/CSS · JavaScript · PostgreSQL · Git · Docker · Azure · Jenkins
 
 ---
 
