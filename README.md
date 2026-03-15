@@ -1,6 +1,6 @@
 ## Hi there, I am Georgi 👋
 
-Aspiring software engineer | Python & Django enthusiast | Currently studying at SoftUni
+Aspiring software engineer | Python & Django enthusiast | SoftUni Graduate
 
 ---
 
@@ -12,6 +12,7 @@ Aspiring software engineer | Python & Django enthusiast | Currently studying at 
 ## 🚀 Projects
 - 🔗 [Places](https://github.com/georgievG3/places): Django app for renting caravans & apartments
 - 🔗 [Apartment 'Skalen Venec'](https://github.com/georgievG3/apartment_skalen_venec): Django app for rental apartment in Veliko Tarnovo
+- 🔗 [Budget Manager](https://github.com/georgievG3/budget_manager): Budget manager only backend
 
 ---
 
